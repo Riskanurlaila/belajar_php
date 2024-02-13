@@ -77,7 +77,7 @@
         $num2 = $_POST["num2"];
 
         //operator aritmatika merupakan operator yang biasa kita temukan dalam operasi matematika//
-    //Sedangkan aritmatika adalah cabang ilmu matematika yang membahas perhitungan sederhana. Mulai dari penambahan, pembagian, pengurangan, dan perkalian.//
+       //Sedangkan aritmatika adalah cabang ilmu matematika yang membahas perhitungan sederhana. Mulai dari penambahan, pembagian, pengurangan, dan perkalian.//
         // Melakukan operasi aritmatika
         $result_addition = $num1 + $num2;
         $result_subtraction = $num1 - $num2;

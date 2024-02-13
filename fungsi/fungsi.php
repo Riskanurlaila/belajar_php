@@ -6,7 +6,18 @@
     <title>PHP Functions</title>
 </head>
 <body>
-
+<div id="container">
+        <div id="overlay">
+            <h2>Nama: Riska Nurlaila</h2>
+            <p>Kelas: XI Rpl</p>
+            <p>Tanggal Praktikum: 6 february 2024</p>
+            <img src="ryska.jpeg" alt="" width="300px" height="350px"> 
+    </div>
+    <style>
+        body{
+            background-image: url(wlpp.jpg)
+        }
+        </style>
 <?php
 // Mendefinisikan fungsi
 function sambut($nama) {

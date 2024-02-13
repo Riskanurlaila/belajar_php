@@ -18,7 +18,6 @@
             <p>Tanggal Praktikum: 6 february 2024</p>
             <img src="ryska.jpeg" alt="" width="300px" height="350px"> 
     </div>
-
 <?php
 
 $nilaiMatematika = 5.1;

@@ -57,7 +57,7 @@
             <h2>Nama: Riska Nurlaila</h2>
             <p>Kelas: XI Rpl</p>
             <p>Tanggal Praktikum: 6 february 2024</p>
-            <img src="ryska.jpeg" alt="" width="300px" height="350px"> 
+            <img src="ryska.jpeg" alt="" width="300" height="350"> 
     </div>
 
     <div class="calculator">

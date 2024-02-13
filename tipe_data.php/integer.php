@@ -6,7 +6,7 @@
     <title>Form PHP Integer</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif; 
             background-image: url(wlpp.jpg);
             margin: 0;
             padding: 0;

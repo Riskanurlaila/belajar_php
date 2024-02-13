@@ -4,10 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Directory Operations</title>
+    <body>
+        <div id="container">
+        <div id="overlay">
+            <h2>Nama: Riska Nurlaila</h2>
+            <p>Kelas: XI Rpl</p>
+            <p>Tanggal Praktikum: 6 february 2024</p>
+            <img src="ryska.jpeg" alt="" width="300px" height="350px"> 
+    </div>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-image: url(wlpp.jpg);
             text-align: center;
             margin: 50px;
         }
